@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a unity game dev who occasionally works on random projects to get better a coding<br>O levels at BSS '25<br>A levels at Nixor '27<br>ryaanaaqil.org
+I'm a unity game dev who occasionally works on random projects to get better a coding<br>O levels at BSS '25<br>A levels at Nixor '27<br>[ryaanaaqil.org](url)
 
 
 ## 🌐 Socials:
