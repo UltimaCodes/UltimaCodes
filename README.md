@@ -22,7 +22,3 @@ currently working on: an electric go-kart, a portfolio website, and not losing m
 ![](https://github-readme-stats.vercel.app/api?username=UltimaCodes&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UltimaCodes&theme=shadow_blue&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UltimaCodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
