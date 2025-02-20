@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm a unity game dev who occasionally works on random projects to get better a coding<br>O levels at BSS '25<br>A levels at Nixor '27<br>[ryaanaaqil.org](url)
+<br>
+hello. i am ryaan. i write code. sometimes it works. sometimes it doesn’t. mostly it doesn’t.
+<br>
+O Levels → A Levels → ??? (step 3 is unclear, might be death)
+<br>
+i make games in unity. they exist. that’s the nicest thing i can say about them.
+<br>
+i also do robotics. because touching grass was never an option.
+<br>
+currently working on: an electric go-kart, a portfolio website, and not losing my mind.
+<br>
+🔗 ryaanaaqil.org (not a phishing link. unless.)
+<br>
 
 
 ## 🌐 Socials:
