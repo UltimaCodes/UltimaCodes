@@ -1,5 +1,4 @@
 # 💫 About Me:
-<br>
 hello. i am ryaan. i write code. sometimes it works. sometimes it doesn’t. mostly it doesn’t.
 <br>
 O Levels → A Levels → ??? (step 3 is unclear, might be death)
