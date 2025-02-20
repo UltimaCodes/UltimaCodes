@@ -9,7 +9,7 @@ i also do robotics. because touching grass was never an option.
 <br>
 currently working on: an electric go-kart, a portfolio website, and not losing my mind.
 <br>
-🔗 ryaanaaqil.org (not a phishing link. unless.)
+🔗 [ryaanaaqil.org](url) (not a phishing link. unless.) 
 <br>
 
 
@@ -21,7 +21,6 @@ currently working on: an electric go-kart, a portfolio website, and not losing m
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=UltimaCodes&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UltimaCodes&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UltimaCodes&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UltimaCodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
