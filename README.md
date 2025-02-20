@@ -1,7 +1,7 @@
 # 💫 About Me:
 hello. i am ryaan. i write code. sometimes it works. sometimes it doesn’t. mostly it doesn’t.
 <br>
-O Levels → A Levels → ??? (step 3 is unclear, might be death)
+O Levels (BSS '25) → A Levels (Nixor '27) → ??? (step 3 is unclear, might be the homeless shelter)
 <br>
 i make games in unity. they exist. that’s the nicest thing i can say about them.
 <br>
