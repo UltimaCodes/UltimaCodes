@@ -7,7 +7,7 @@ i make games in unity. they exist. that’s the nicest thing i can say about the
 <br>
 i also do robotics. because touching grass was never an option.
 <br>
-currently working on: an electric go-kart, a game about metal pipes (im serious), and not losing my mind.
+currently working on: a walkie talkie comms system (surely its not illegal to put up yaga antennas everywhere), a game about metal pipes (im serious), and not losing my mind.
 <br>
 🔗 [ryaanaaqil.org](url) (not a phishing link. unless.) 
 <br>
