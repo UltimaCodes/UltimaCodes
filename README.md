@@ -9,7 +9,7 @@ i also do robotics. because touching grass was never an option.
 <br>
 currently working on: a walkie talkie comms system (surely its not illegal to put up yaga antennas everywhere), a game about metal pipes (im serious), and not losing my mind.
 <br>
-🔗 [ryaanaaqil.org](url) (not a phishing link. unless.) 
+🔗 [ryaan.org](url) (not a phishing link. unless.) 
 <br>
 
 
